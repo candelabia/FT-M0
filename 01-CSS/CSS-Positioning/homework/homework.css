@@ -47,8 +47,14 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 /* Acá va tu código */
 #ejercicioCinco {
     display: flex;
-    
+    flex: revert;
+    justify-content: space-around;
+    align-items: center;
 }
 
 
 /* Ejercicio 6. */
+#ejercicioCinco {
+    display: flex;
+    flex-direction: row-reverse;
+}
