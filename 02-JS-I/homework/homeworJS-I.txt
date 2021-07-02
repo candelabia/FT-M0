@@ -1,0 +1,9 @@
+VARIABLES: una variable son como cajitas que contienen cosas, pueden ser objetos, 
+elementos, numeros 
+STRING: textos que se escriben entre comillas y con comillas simples
+FUNCIONES: (ARGUMENTOS, RETURN) es un conjunto de instrucciones que se agrupan para realizar
+una tarea concreta y que se pueden reutilizar fácilmente.
+DECLARACIONES IF: aveces queremos hacer cosas "condicionalmente" en nuestro
+programas: queremos ser capaces de decir "si esta cosa es verdad haz x, pero
+si esta otra cosa es verdad haz y"
+VALORES BOOLEANOS: basicamente es aclarar si algo es verdadero o falso
